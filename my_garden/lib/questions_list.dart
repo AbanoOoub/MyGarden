@@ -1,0 +1,41 @@
+import 'package:my_garden/model/question.dart';
+
+List<Question> questions = [
+  Question('images/body/lion.png', 'Donkey', 'Lion', 'Tiger', 'Lion'),
+  Question('images/body/horse.png', 'Horse', 'Donkey', 'monkey', 'Horse'),
+  Question('images/body/monkey.png', 'Gorilla', 'Monkey', 'Tiger', 'Monkey'),
+  Question('images/body/bat.png', 'cockroach', 'Duck', 'Bat', 'Bat'),
+  Question('images/body/fox.png', 'Fox', 'Lion', 'Dog', 'Fox'),
+  Question('images/body/pig.png', 'Hippopotamus', 'Pig', 'Rhino', 'Pig'),
+  Question('images/body/rooster.png', 'Rooster', 'Duck', 'Bird', 'Rooster'),
+  Question('images/body/mouse.png', 'Mouse', 'Pig', 'Rooster', 'Mouse'),
+  Question('images/body/hippopotamus.png', 'Rhino', 'Hippopotamus', 'Elephant',
+      'Hippopotamus'),
+  Question('images/body/owl.png', 'Duck', 'Pig', 'Owl', 'Owl'),
+  Question('images/body/frog.png', 'Frog', 'Bird', 'Bat', 'Frog'),
+  Question('images/body/cow.png', 'Pig', 'Cow', 'Duck', 'Cow'),
+  Question('images/body/cheetah.png', 'Tiger', 'Cheetah', 'Lion', 'Cheetah'),
+  Question('images/body/donkey.png', 'Donkey', 'Horse', 'Cow', 'Donkey'),
+  Question('images/body/gorilla.png', 'Monkey', 'Gorilla', 'Donkey', 'Gorilla'),
+  Question('images/body/turkey.png', 'Bird', 'Turkey', 'Duck', 'Turkey'),
+  Question('images/body/wolf.png', 'Tiger', 'Lion', 'Wolf', 'Wolf'),
+  Question('images/body/sheep.png', 'Sheep', 'Wolf', 'Cat', 'Sheep'),
+  Question('images/body/eagle.png', 'Bird', 'Eagle', 'Bee', 'Eagle'),
+  Question('images/body/ostrich.png', 'Bird', 'Duck', 'Ostrich', 'Ostrich'),
+  Question('images/body/penguin.png', 'Penguin', 'Bird', 'Bat', 'Penguin'),
+  Question(
+      'images/body/rhino.png', 'Elephant', 'Rhino', 'hippopotamus', 'Rhino'),
+  Question('images/body/tiger.png', 'Lion', 'Tiger', 'Wolf', 'Tiger'),
+  Question('images/body/dog.png', 'Bat', 'Wolf', 'Dog', 'Dog'),
+  Question('images/body/duck.png', 'Duck', 'Bird', 'Bee', 'Duck'),
+  Question(
+      'images/body/elephant.png', 'Turkey', 'Elephant', 'Rhino', 'Elephant'),
+  Question('images/body/deer.png', 'Deer', 'Bear', 'Duck', 'Deer'),
+  Question('images/body/bee.png', 'Bird', 'Owl', 'Bee', 'Bee'),
+  Question('images/body/cat.png', 'Cat', 'Camel', 'Dog', 'Cat'),
+  Question('images/body/bird.png', 'Duck', 'Bird', 'Eagle', 'Bird'),
+  Question(
+      'images/body/cockroach.png', 'Bird', 'Bee', 'Cockroach', 'Cockroach'),
+  Question('images/body/bear.png', 'Bear', 'Dear', 'Camel', 'Bear'),
+  Question('images/body/camel.png', 'Cat', 'Camel', 'Wolf', 'Camel'),
+];
